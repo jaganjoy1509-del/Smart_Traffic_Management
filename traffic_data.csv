@@ -1,0 +1,505 @@
+timestamp,junction_name,vehicle_count
+2026-08-01 00:00,MG Road Junction,28
+2026-08-01 00:00,Silk Board Junction,23
+2026-08-01 00:00,Hebbal Flyover,9
+2026-08-01 01:00,MG Road Junction,12
+2026-08-01 01:00,Silk Board Junction,34
+2026-08-01 01:00,Hebbal Flyover,26
+2026-08-01 02:00,MG Road Junction,6
+2026-08-01 02:00,Silk Board Junction,23
+2026-08-01 02:00,Hebbal Flyover,18
+2026-08-01 03:00,MG Road Junction,24
+2026-08-01 03:00,Silk Board Junction,38
+2026-08-01 03:00,Hebbal Flyover,32
+2026-08-01 04:00,MG Road Junction,25
+2026-08-01 04:00,Silk Board Junction,47
+2026-08-01 04:00,Hebbal Flyover,3
+2026-08-01 05:00,MG Road Junction,23
+2026-08-01 05:00,Silk Board Junction,33
+2026-08-01 05:00,Hebbal Flyover,5
+2026-08-01 06:00,MG Road Junction,54
+2026-08-01 06:00,Silk Board Junction,57
+2026-08-01 06:00,Hebbal Flyover,37
+2026-08-01 07:00,MG Road Junction,71
+2026-08-01 07:00,Silk Board Junction,57
+2026-08-01 07:00,Hebbal Flyover,66
+2026-08-01 08:00,MG Road Junction,89
+2026-08-01 08:00,Silk Board Junction,102
+2026-08-01 08:00,Hebbal Flyover,98
+2026-08-01 09:00,MG Road Junction,120
+2026-08-01 09:00,Silk Board Junction,122
+2026-08-01 09:00,Hebbal Flyover,107
+2026-08-01 10:00,MG Road Junction,79
+2026-08-01 10:00,Silk Board Junction,138
+2026-08-01 10:00,Hebbal Flyover,72
+2026-08-01 11:00,MG Road Junction,48
+2026-08-01 11:00,Silk Board Junction,71
+2026-08-01 11:00,Hebbal Flyover,71
+2026-08-01 12:00,MG Road Junction,51
+2026-08-01 12:00,Silk Board Junction,68
+2026-08-01 12:00,Hebbal Flyover,57
+2026-08-01 13:00,MG Road Junction,53
+2026-08-01 13:00,Silk Board Junction,85
+2026-08-01 13:00,Hebbal Flyover,61
+2026-08-01 14:00,MG Road Junction,54
+2026-08-01 14:00,Silk Board Junction,72
+2026-08-01 14:00,Hebbal Flyover,77
+2026-08-01 15:00,MG Road Junction,54
+2026-08-01 15:00,Silk Board Junction,50
+2026-08-01 15:00,Hebbal Flyover,32
+2026-08-01 16:00,MG Road Junction,63
+2026-08-01 16:00,Silk Board Junction,50
+2026-08-01 16:00,Hebbal Flyover,66
+2026-08-01 17:00,MG Road Junction,103
+2026-08-01 17:00,Silk Board Junction,123
+2026-08-01 17:00,Hebbal Flyover,136
+2026-08-01 18:00,MG Road Junction,103
+2026-08-01 18:00,Silk Board Junction,100
+2026-08-01 18:00,Hebbal Flyover,92
+2026-08-01 19:00,MG Road Junction,112
+2026-08-01 19:00,Silk Board Junction,145
+2026-08-01 19:00,Hebbal Flyover,105
+2026-08-01 20:00,MG Road Junction,106
+2026-08-01 20:00,Silk Board Junction,98
+2026-08-01 20:00,Hebbal Flyover,107
+2026-08-01 21:00,MG Road Junction,36
+2026-08-01 21:00,Silk Board Junction,51
+2026-08-01 21:00,Hebbal Flyover,65
+2026-08-01 22:00,MG Road Junction,76
+2026-08-01 22:00,Silk Board Junction,56
+2026-08-01 22:00,Hebbal Flyover,63
+2026-08-01 23:00,MG Road Junction,75
+2026-08-01 23:00,Silk Board Junction,73
+2026-08-01 23:00,Hebbal Flyover,23
+2026-08-02 00:00,MG Road Junction,30
+2026-08-02 00:00,Silk Board Junction,45
+2026-08-02 00:00,Hebbal Flyover,7
+2026-08-02 01:00,MG Road Junction,23
+2026-08-02 01:00,Silk Board Junction,29
+2026-08-02 01:00,Hebbal Flyover,19
+2026-08-02 02:00,MG Road Junction,26
+2026-08-02 02:00,Silk Board Junction,38
+2026-08-02 02:00,Hebbal Flyover,24
+2026-08-02 03:00,MG Road Junction,40
+2026-08-02 03:00,Silk Board Junction,25
+2026-08-02 03:00,Hebbal Flyover,11
+2026-08-02 04:00,MG Road Junction,38
+2026-08-02 04:00,Silk Board Junction,34
+2026-08-02 04:00,Hebbal Flyover,20
+2026-08-02 05:00,MG Road Junction,8
+2026-08-02 05:00,Silk Board Junction,35
+2026-08-02 05:00,Hebbal Flyover,3
+2026-08-02 06:00,MG Road Junction,63
+2026-08-02 06:00,Silk Board Junction,47
+2026-08-02 06:00,Hebbal Flyover,53
+2026-08-02 07:00,MG Road Junction,68
+2026-08-02 07:00,Silk Board Junction,63
+2026-08-02 07:00,Hebbal Flyover,60
+2026-08-02 08:00,MG Road Junction,102
+2026-08-02 08:00,Silk Board Junction,154
+2026-08-02 08:00,Hebbal Flyover,93
+2026-08-02 09:00,MG Road Junction,146
+2026-08-02 09:00,Silk Board Junction,134
+2026-08-02 09:00,Hebbal Flyover,114
+2026-08-02 10:00,MG Road Junction,115
+2026-08-02 10:00,Silk Board Junction,117
+2026-08-02 10:00,Hebbal Flyover,133
+2026-08-02 11:00,MG Road Junction,61
+2026-08-02 11:00,Silk Board Junction,62
+2026-08-02 11:00,Hebbal Flyover,34
+2026-08-02 12:00,MG Road Junction,49
+2026-08-02 12:00,Silk Board Junction,82
+2026-08-02 12:00,Hebbal Flyover,64
+2026-08-02 13:00,MG Road Junction,32
+2026-08-02 13:00,Silk Board Junction,81
+2026-08-02 13:00,Hebbal Flyover,36
+2026-08-02 14:00,MG Road Junction,42
+2026-08-02 14:00,Silk Board Junction,60
+2026-08-02 14:00,Hebbal Flyover,43
+2026-08-02 15:00,MG Road Junction,67
+2026-08-02 15:00,Silk Board Junction,78
+2026-08-02 15:00,Hebbal Flyover,74
+2026-08-02 16:00,MG Road Junction,67
+2026-08-02 16:00,Silk Board Junction,83
+2026-08-02 16:00,Hebbal Flyover,35
+2026-08-02 17:00,MG Road Junction,89
+2026-08-02 17:00,Silk Board Junction,115
+2026-08-02 17:00,Hebbal Flyover,100
+2026-08-02 18:00,MG Road Junction,126
+2026-08-02 18:00,Silk Board Junction,143
+2026-08-02 18:00,Hebbal Flyover,104
+2026-08-02 19:00,MG Road Junction,85
+2026-08-02 19:00,Silk Board Junction,136
+2026-08-02 19:00,Hebbal Flyover,114
+2026-08-02 20:00,MG Road Junction,91
+2026-08-02 20:00,Silk Board Junction,109
+2026-08-02 20:00,Hebbal Flyover,92
+2026-08-02 21:00,MG Road Junction,62
+2026-08-02 21:00,Silk Board Junction,71
+2026-08-02 21:00,Hebbal Flyover,37
+2026-08-02 22:00,MG Road Junction,75
+2026-08-02 22:00,Silk Board Junction,47
+2026-08-02 22:00,Hebbal Flyover,54
+2026-08-02 23:00,MG Road Junction,42
+2026-08-02 23:00,Silk Board Junction,63
+2026-08-02 23:00,Hebbal Flyover,66
+2026-08-03 00:00,MG Road Junction,23
+2026-08-03 00:00,Silk Board Junction,21
+2026-08-03 00:00,Hebbal Flyover,7
+2026-08-03 01:00,MG Road Junction,25
+2026-08-03 01:00,Silk Board Junction,38
+2026-08-03 01:00,Hebbal Flyover,25
+2026-08-03 02:00,MG Road Junction,24
+2026-08-03 02:00,Silk Board Junction,30
+2026-08-03 02:00,Hebbal Flyover,2
+2026-08-03 03:00,MG Road Junction,40
+2026-08-03 03:00,Silk Board Junction,26
+2026-08-03 03:00,Hebbal Flyover,0
+2026-08-03 04:00,MG Road Junction,38
+2026-08-03 04:00,Silk Board Junction,47
+2026-08-03 04:00,Hebbal Flyover,1
+2026-08-03 05:00,MG Road Junction,23
+2026-08-03 05:00,Silk Board Junction,22
+2026-08-03 05:00,Hebbal Flyover,16
+2026-08-03 06:00,MG Road Junction,57
+2026-08-03 06:00,Silk Board Junction,65
+2026-08-03 06:00,Hebbal Flyover,53
+2026-08-03 07:00,MG Road Junction,69
+2026-08-03 07:00,Silk Board Junction,81
+2026-08-03 07:00,Hebbal Flyover,64
+2026-08-03 08:00,MG Road Junction,122
+2026-08-03 08:00,Silk Board Junction,108
+2026-08-03 08:00,Hebbal Flyover,83
+2026-08-03 09:00,MG Road Junction,93
+2026-08-03 09:00,Silk Board Junction,109
+2026-08-03 09:00,Hebbal Flyover,122
+2026-08-03 10:00,MG Road Junction,103
+2026-08-03 10:00,Silk Board Junction,102
+2026-08-03 10:00,Hebbal Flyover,74
+2026-08-03 11:00,MG Road Junction,87
+2026-08-03 11:00,Silk Board Junction,48
+2026-08-03 11:00,Hebbal Flyover,60
+2026-08-03 12:00,MG Road Junction,70
+2026-08-03 12:00,Silk Board Junction,59
+2026-08-03 12:00,Hebbal Flyover,31
+2026-08-03 13:00,MG Road Junction,62
+2026-08-03 13:00,Silk Board Junction,64
+2026-08-03 13:00,Hebbal Flyover,63
+2026-08-03 14:00,MG Road Junction,89
+2026-08-03 14:00,Silk Board Junction,73
+2026-08-03 14:00,Hebbal Flyover,64
+2026-08-03 15:00,MG Road Junction,40
+2026-08-03 15:00,Silk Board Junction,59
+2026-08-03 15:00,Hebbal Flyover,43
+2026-08-03 16:00,MG Road Junction,47
+2026-08-03 16:00,Silk Board Junction,77
+2026-08-03 16:00,Hebbal Flyover,43
+2026-08-03 17:00,MG Road Junction,103
+2026-08-03 17:00,Silk Board Junction,142
+2026-08-03 17:00,Hebbal Flyover,107
+2026-08-03 18:00,MG Road Junction,87
+2026-08-03 18:00,Silk Board Junction,105
+2026-08-03 18:00,Hebbal Flyover,95
+2026-08-03 19:00,MG Road Junction,72
+2026-08-03 19:00,Silk Board Junction,105
+2026-08-03 19:00,Hebbal Flyover,108
+2026-08-03 20:00,MG Road Junction,94
+2026-08-03 20:00,Silk Board Junction,128
+2026-08-03 20:00,Hebbal Flyover,95
+2026-08-03 21:00,MG Road Junction,39
+2026-08-03 21:00,Silk Board Junction,66
+2026-08-03 21:00,Hebbal Flyover,33
+2026-08-03 22:00,MG Road Junction,84
+2026-08-03 22:00,Silk Board Junction,62
+2026-08-03 22:00,Hebbal Flyover,29
+2026-08-03 23:00,MG Road Junction,60
+2026-08-03 23:00,Silk Board Junction,53
+2026-08-03 23:00,Hebbal Flyover,40
+2026-08-04 00:00,MG Road Junction,19
+2026-08-04 00:00,Silk Board Junction,45
+2026-08-04 00:00,Hebbal Flyover,18
+2026-08-04 01:00,MG Road Junction,17
+2026-08-04 01:00,Silk Board Junction,33
+2026-08-04 01:00,Hebbal Flyover,0
+2026-08-04 02:00,MG Road Junction,28
+2026-08-04 02:00,Silk Board Junction,30
+2026-08-04 02:00,Hebbal Flyover,3
+2026-08-04 03:00,MG Road Junction,18
+2026-08-04 03:00,Silk Board Junction,37
+2026-08-04 03:00,Hebbal Flyover,15
+2026-08-04 04:00,MG Road Junction,25
+2026-08-04 04:00,Silk Board Junction,29
+2026-08-04 04:00,Hebbal Flyover,1
+2026-08-04 05:00,MG Road Junction,27
+2026-08-04 05:00,Silk Board Junction,25
+2026-08-04 05:00,Hebbal Flyover,14
+2026-08-04 06:00,MG Road Junction,74
+2026-08-04 06:00,Silk Board Junction,84
+2026-08-04 06:00,Hebbal Flyover,24
+2026-08-04 07:00,MG Road Junction,51
+2026-08-04 07:00,Silk Board Junction,85
+2026-08-04 07:00,Hebbal Flyover,25
+2026-08-04 08:00,MG Road Junction,121
+2026-08-04 08:00,Silk Board Junction,112
+2026-08-04 08:00,Hebbal Flyover,106
+2026-08-04 09:00,MG Road Junction,105
+2026-08-04 09:00,Silk Board Junction,122
+2026-08-04 09:00,Hebbal Flyover,80
+2026-08-04 10:00,MG Road Junction,85
+2026-08-04 10:00,Silk Board Junction,96
+2026-08-04 10:00,Hebbal Flyover,136
+2026-08-04 11:00,MG Road Junction,53
+2026-08-04 11:00,Silk Board Junction,69
+2026-08-04 11:00,Hebbal Flyover,60
+2026-08-04 12:00,MG Road Junction,53
+2026-08-04 12:00,Silk Board Junction,75
+2026-08-04 12:00,Hebbal Flyover,52
+2026-08-04 13:00,MG Road Junction,62
+2026-08-04 13:00,Silk Board Junction,75
+2026-08-04 13:00,Hebbal Flyover,34
+2026-08-04 14:00,MG Road Junction,68
+2026-08-04 14:00,Silk Board Junction,70
+2026-08-04 14:00,Hebbal Flyover,65
+2026-08-04 15:00,MG Road Junction,72
+2026-08-04 15:00,Silk Board Junction,49
+2026-08-04 15:00,Hebbal Flyover,44
+2026-08-04 16:00,MG Road Junction,75
+2026-08-04 16:00,Silk Board Junction,98
+2026-08-04 16:00,Hebbal Flyover,54
+2026-08-04 17:00,MG Road Junction,112
+2026-08-04 17:00,Silk Board Junction,129
+2026-08-04 17:00,Hebbal Flyover,107
+2026-08-04 18:00,MG Road Junction,125
+2026-08-04 18:00,Silk Board Junction,124
+2026-08-04 18:00,Hebbal Flyover,94
+2026-08-04 19:00,MG Road Junction,132
+2026-08-04 19:00,Silk Board Junction,129
+2026-08-04 19:00,Hebbal Flyover,72
+2026-08-04 20:00,MG Road Junction,122
+2026-08-04 20:00,Silk Board Junction,100
+2026-08-04 20:00,Hebbal Flyover,69
+2026-08-04 21:00,MG Road Junction,39
+2026-08-04 21:00,Silk Board Junction,89
+2026-08-04 21:00,Hebbal Flyover,38
+2026-08-04 22:00,MG Road Junction,76
+2026-08-04 22:00,Silk Board Junction,82
+2026-08-04 22:00,Hebbal Flyover,59
+2026-08-04 23:00,MG Road Junction,62
+2026-08-04 23:00,Silk Board Junction,69
+2026-08-04 23:00,Hebbal Flyover,23
+2026-08-05 00:00,MG Road Junction,25
+2026-08-05 00:00,Silk Board Junction,36
+2026-08-05 00:00,Hebbal Flyover,10
+2026-08-05 01:00,MG Road Junction,29
+2026-08-05 01:00,Silk Board Junction,32
+2026-08-05 01:00,Hebbal Flyover,13
+2026-08-05 02:00,MG Road Junction,38
+2026-08-05 02:00,Silk Board Junction,44
+2026-08-05 02:00,Hebbal Flyover,28
+2026-08-05 03:00,MG Road Junction,34
+2026-08-05 03:00,Silk Board Junction,46
+2026-08-05 03:00,Hebbal Flyover,15
+2026-08-05 04:00,MG Road Junction,27
+2026-08-05 04:00,Silk Board Junction,42
+2026-08-05 04:00,Hebbal Flyover,19
+2026-08-05 05:00,MG Road Junction,40
+2026-08-05 05:00,Silk Board Junction,30
+2026-08-05 05:00,Hebbal Flyover,11
+2026-08-05 06:00,MG Road Junction,55
+2026-08-05 06:00,Silk Board Junction,67
+2026-08-05 06:00,Hebbal Flyover,57
+2026-08-05 07:00,MG Road Junction,39
+2026-08-05 07:00,Silk Board Junction,56
+2026-08-05 07:00,Hebbal Flyover,48
+2026-08-05 08:00,MG Road Junction,121
+2026-08-05 08:00,Silk Board Junction,97
+2026-08-05 08:00,Hebbal Flyover,96
+2026-08-05 09:00,MG Road Junction,118
+2026-08-05 09:00,Silk Board Junction,107
+2026-08-05 09:00,Hebbal Flyover,86
+2026-08-05 10:00,MG Road Junction,112
+2026-08-05 10:00,Silk Board Junction,140
+2026-08-05 10:00,Hebbal Flyover,132
+2026-08-05 11:00,MG Road Junction,69
+2026-08-05 11:00,Silk Board Junction,51
+2026-08-05 11:00,Hebbal Flyover,51
+2026-08-05 12:00,MG Road Junction,73
+2026-08-05 12:00,Silk Board Junction,93
+2026-08-05 12:00,Hebbal Flyover,49
+2026-08-05 13:00,MG Road Junction,52
+2026-08-05 13:00,Silk Board Junction,82
+2026-08-05 13:00,Hebbal Flyover,33
+2026-08-05 14:00,MG Road Junction,63
+2026-08-05 14:00,Silk Board Junction,64
+2026-08-05 14:00,Hebbal Flyover,47
+2026-08-05 15:00,MG Road Junction,64
+2026-08-05 15:00,Silk Board Junction,83
+2026-08-05 15:00,Hebbal Flyover,56
+2026-08-05 16:00,MG Road Junction,55
+2026-08-05 16:00,Silk Board Junction,71
+2026-08-05 16:00,Hebbal Flyover,54
+2026-08-05 17:00,MG Road Junction,81
+2026-08-05 17:00,Silk Board Junction,114
+2026-08-05 17:00,Hebbal Flyover,87
+2026-08-05 18:00,MG Road Junction,100
+2026-08-05 18:00,Silk Board Junction,140
+2026-08-05 18:00,Hebbal Flyover,90
+2026-08-05 19:00,MG Road Junction,88
+2026-08-05 19:00,Silk Board Junction,110
+2026-08-05 19:00,Hebbal Flyover,124
+2026-08-05 20:00,MG Road Junction,84
+2026-08-05 20:00,Silk Board Junction,114
+2026-08-05 20:00,Hebbal Flyover,84
+2026-08-05 21:00,MG Road Junction,32
+2026-08-05 21:00,Silk Board Junction,61
+2026-08-05 21:00,Hebbal Flyover,40
+2026-08-05 22:00,MG Road Junction,46
+2026-08-05 22:00,Silk Board Junction,63
+2026-08-05 22:00,Hebbal Flyover,45
+2026-08-05 23:00,MG Road Junction,57
+2026-08-05 23:00,Silk Board Junction,67
+2026-08-05 23:00,Hebbal Flyover,49
+2026-08-06 00:00,MG Road Junction,27
+2026-08-06 00:00,Silk Board Junction,29
+2026-08-06 00:00,Hebbal Flyover,16
+2026-08-06 01:00,MG Road Junction,14
+2026-08-06 01:00,Silk Board Junction,45
+2026-08-06 01:00,Hebbal Flyover,13
+2026-08-06 02:00,MG Road Junction,25
+2026-08-06 02:00,Silk Board Junction,42
+2026-08-06 02:00,Hebbal Flyover,7
+2026-08-06 03:00,MG Road Junction,27
+2026-08-06 03:00,Silk Board Junction,34
+2026-08-06 03:00,Hebbal Flyover,23
+2026-08-06 04:00,MG Road Junction,29
+2026-08-06 04:00,Silk Board Junction,33
+2026-08-06 04:00,Hebbal Flyover,25
+2026-08-06 05:00,MG Road Junction,18
+2026-08-06 05:00,Silk Board Junction,33
+2026-08-06 05:00,Hebbal Flyover,19
+2026-08-06 06:00,MG Road Junction,84
+2026-08-06 06:00,Silk Board Junction,62
+2026-08-06 06:00,Hebbal Flyover,47
+2026-08-06 07:00,MG Road Junction,66
+2026-08-06 07:00,Silk Board Junction,89
+2026-08-06 07:00,Hebbal Flyover,62
+2026-08-06 08:00,MG Road Junction,140
+2026-08-06 08:00,Silk Board Junction,107
+2026-08-06 08:00,Hebbal Flyover,121
+2026-08-06 09:00,MG Road Junction,125
+2026-08-06 09:00,Silk Board Junction,111
+2026-08-06 09:00,Hebbal Flyover,89
+2026-08-06 10:00,MG Road Junction,125
+2026-08-06 10:00,Silk Board Junction,134
+2026-08-06 10:00,Hebbal Flyover,81
+2026-08-06 11:00,MG Road Junction,71
+2026-08-06 11:00,Silk Board Junction,66
+2026-08-06 11:00,Hebbal Flyover,44
+2026-08-06 12:00,MG Road Junction,56
+2026-08-06 12:00,Silk Board Junction,76
+2026-08-06 12:00,Hebbal Flyover,54
+2026-08-06 13:00,MG Road Junction,46
+2026-08-06 13:00,Silk Board Junction,54
+2026-08-06 13:00,Hebbal Flyover,48
+2026-08-06 14:00,MG Road Junction,78
+2026-08-06 14:00,Silk Board Junction,70
+2026-08-06 14:00,Hebbal Flyover,65
+2026-08-06 15:00,MG Road Junction,33
+2026-08-06 15:00,Silk Board Junction,65
+2026-08-06 15:00,Hebbal Flyover,52
+2026-08-06 16:00,MG Road Junction,67
+2026-08-06 16:00,Silk Board Junction,78
+2026-08-06 16:00,Hebbal Flyover,71
+2026-08-06 17:00,MG Road Junction,105
+2026-08-06 17:00,Silk Board Junction,144
+2026-08-06 17:00,Hebbal Flyover,92
+2026-08-06 18:00,MG Road Junction,128
+2026-08-06 18:00,Silk Board Junction,106
+2026-08-06 18:00,Hebbal Flyover,83
+2026-08-06 19:00,MG Road Junction,83
+2026-08-06 19:00,Silk Board Junction,103
+2026-08-06 19:00,Hebbal Flyover,124
+2026-08-06 20:00,MG Road Junction,135
+2026-08-06 20:00,Silk Board Junction,98
+2026-08-06 20:00,Hebbal Flyover,122
+2026-08-06 21:00,MG Road Junction,65
+2026-08-06 21:00,Silk Board Junction,92
+2026-08-06 21:00,Hebbal Flyover,41
+2026-08-06 22:00,MG Road Junction,51
+2026-08-06 22:00,Silk Board Junction,65
+2026-08-06 22:00,Hebbal Flyover,40
+2026-08-06 23:00,MG Road Junction,47
+2026-08-06 23:00,Silk Board Junction,56
+2026-08-06 23:00,Hebbal Flyover,23
+2026-08-07 00:00,MG Road Junction,31
+2026-08-07 00:00,Silk Board Junction,39
+2026-08-07 00:00,Hebbal Flyover,13
+2026-08-07 01:00,MG Road Junction,23
+2026-08-07 01:00,Silk Board Junction,39
+2026-08-07 01:00,Hebbal Flyover,24
+2026-08-07 02:00,MG Road Junction,20
+2026-08-07 02:00,Silk Board Junction,24
+2026-08-07 02:00,Hebbal Flyover,13
+2026-08-07 03:00,MG Road Junction,19
+2026-08-07 03:00,Silk Board Junction,32
+2026-08-07 03:00,Hebbal Flyover,33
+2026-08-07 04:00,MG Road Junction,10
+2026-08-07 04:00,Silk Board Junction,37
+2026-08-07 04:00,Hebbal Flyover,6
+2026-08-07 05:00,MG Road Junction,15
+2026-08-07 05:00,Silk Board Junction,45
+2026-08-07 05:00,Hebbal Flyover,33
+2026-08-07 06:00,MG Road Junction,76
+2026-08-07 06:00,Silk Board Junction,85
+2026-08-07 06:00,Hebbal Flyover,62
+2026-08-07 07:00,MG Road Junction,67
+2026-08-07 07:00,Silk Board Junction,76
+2026-08-07 07:00,Hebbal Flyover,75
+2026-08-07 08:00,MG Road Junction,92
+2026-08-07 08:00,Silk Board Junction,130
+2026-08-07 08:00,Hebbal Flyover,126
+2026-08-07 09:00,MG Road Junction,116
+2026-08-07 09:00,Silk Board Junction,98
+2026-08-07 09:00,Hebbal Flyover,77
+2026-08-07 10:00,MG Road Junction,98
+2026-08-07 10:00,Silk Board Junction,89
+2026-08-07 10:00,Hebbal Flyover,73
+2026-08-07 11:00,MG Road Junction,77
+2026-08-07 11:00,Silk Board Junction,79
+2026-08-07 11:00,Hebbal Flyover,29
+2026-08-07 12:00,MG Road Junction,57
+2026-08-07 12:00,Silk Board Junction,71
+2026-08-07 12:00,Hebbal Flyover,42
+2026-08-07 13:00,MG Road Junction,88
+2026-08-07 13:00,Silk Board Junction,65
+2026-08-07 13:00,Hebbal Flyover,44
+2026-08-07 14:00,MG Road Junction,64
+2026-08-07 14:00,Silk Board Junction,57
+2026-08-07 14:00,Hebbal Flyover,31
+2026-08-07 15:00,MG Road Junction,38
+2026-08-07 15:00,Silk Board Junction,78
+2026-08-07 15:00,Hebbal Flyover,65
+2026-08-07 16:00,MG Road Junction,61
+2026-08-07 16:00,Silk Board Junction,78
+2026-08-07 16:00,Hebbal Flyover,53
+2026-08-07 17:00,MG Road Junction,119
+2026-08-07 17:00,Silk Board Junction,125
+2026-08-07 17:00,Hebbal Flyover,84
+2026-08-07 18:00,MG Road Junction,85
+2026-08-07 18:00,Silk Board Junction,137
+2026-08-07 18:00,Hebbal Flyover,106
+2026-08-07 19:00,MG Road Junction,73
+2026-08-07 19:00,Silk Board Junction,112
+2026-08-07 19:00,Hebbal Flyover,97
+2026-08-07 20:00,MG Road Junction,126
+2026-08-07 20:00,Silk Board Junction,117
+2026-08-07 20:00,Hebbal Flyover,113
+2026-08-07 21:00,MG Road Junction,76
+2026-08-07 21:00,Silk Board Junction,76
+2026-08-07 21:00,Hebbal Flyover,49
+2026-08-07 22:00,MG Road Junction,77
+2026-08-07 22:00,Silk Board Junction,73
+2026-08-07 22:00,Hebbal Flyover,61
+2026-08-07 23:00,MG Road Junction,66
+2026-08-07 23:00,Silk Board Junction,63
+2026-08-07 23:00,Hebbal Flyover,40
